@@ -2,19 +2,6 @@
 
 Soy un **desarrollador web junior** apasionado por crear experiencias digitales funcionales y atractivas. Actualmente estoy enfocado en mejorar mis habilidades con **JavaScript, React y Node.js**. Me encanta aprender, colaborar y construir cosas útiles.
 
----
-
-## 🧠 Lo que estoy aprendiendo 
-
-- 📚 React y manejo de estados con Redux
-- 🧩 Next.js para desarrollo full stack
-- 🔧 Buenas prácticas en Git y control de versiones
-- 🧪 Testing básico con Jest
-
----
-
-## 💻 Proyectos destacados
-
 ## 💼 Proyectos destacados
 
 🔹 [**Marketplace de Coches**](https://github.com/JDiego03/AutomarketRepo)  
@@ -65,10 +52,9 @@ Busco mi **primer trabajo como desarrollador web** donde pueda crecer, aportar y
 
 ## 📫 ¿Quieres hablar conmigo?
 
-- 📧 juandiego@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- 🌐 [Portfolio](https://tuportafolio.com) *(si lo tienes)*
+- 📧 juandiegocalvoarocha@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-diego-calvo-arocha-1a7181307/)  
+- 🌐 [Portfolio](https://jdiego03.github.io/Portafolio-Template/)
 
----
 
-_Gracias por visitar mi perfil. Si te gusta alguno de mis proyectos, no dudes en dejar una ⭐ o escribirme para colaborar._
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JDiego03&theme=vue-dark&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
