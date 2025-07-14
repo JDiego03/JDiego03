@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy Juan Diego
 
+<img width="1175" height="568" alt="image" src="https://github.com/user-attachments/assets/9b959fb1-b40d-4cde-a82c-ea53a3e51bb3" />
+
 Soy un **desarrollador web junior** apasionado por crear experiencias digitales funcionales y atractivas. Actualmente estoy enfocado en mejorar mis habilidades con **JavaScript, React y Node.js**. Me encanta aprender, colaborar y construir cosas útiles.
 
 ## 💼 Proyectos destacados
